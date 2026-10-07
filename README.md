@@ -5,6 +5,13 @@ Welcome to my GitHub profile!
 - 🔭 I am a Ph.D. student at the University of Tokyo, conducting research on quantum computing applications in quantum chemistry.
 - 💻 My primary programming language is Python.
 
+## Papers
+
+1. K. Tsuoka, T. Kosugi, M. Watanabe, H. Nishi, and Y.-I. Matsushita, First-Quantized Quantum Simulation with Non-Local Potentials by Matrix-Product-State Encoding, https://doi.org/10.48550/arXiv.2610.00521.
+2. S.-X. Zhang et al., TensorCircuit-NG: A Universal, Composable, and Scalable Platform for Quantum Computing and Quantum Simulation, https://doi.org/10.48550/arXiv.2602.14167.
+3. K. Tsuoka, N. Samejima, E. Toki, T. Nakashima, R. Abe, T. Oyama, and K. Tsukiyama, Oscillating chemiluminescence reaction in the L‐012–H 2 O 2 –KSCN–CuSO 4 –NaOH system, Int. J. Chem. Kinet. 53, 1184 (2021).
+4. E. Toki, S. Osaki, M. Nakamura, K. Tsuoka, N. Samejima, T. Nakashima, R. Abe, T. Oyama, and K. Tsukiyama, Mechanism of the oscillating chemiluminescence reaction in the luminol‐H 2 O 2 ‐KSCN‐CuSO 4 ‐NaOH system, Int. J. Chem. Kinet. 52, 907 (2020).
+
 ## Hackathons
 
 ### Future Leaders in Quantum Hackathon 2025
